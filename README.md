@@ -1,8 +1,9 @@
 # Vuokrain
-A Java Spring Web App project for renting stuff over the internet. Inspiration partially from Tori.fi -service.
+A Java Spring Web App project for renting stuff over the internet.
+
+Inspiration is some part gotten from Tori.fi - service.
 
 # Features
-
 - Hibernate JPA
 - Hibernate Search
 - Hibernate Validation
@@ -11,6 +12,6 @@ A Java Spring Web App project for renting stuff over the internet. Inspiration p
 - Java Mail
 - Spring Security
 - Testing
--- Junit
--- Greenmail
--- Mockito
+  - Junit
+  - Greenmail
+  - Mockito
