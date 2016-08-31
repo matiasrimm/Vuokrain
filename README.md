@@ -1,7 +1,7 @@
 # Vuokrain
 A Java Spring Web App project for renting stuff over the internet.
 
-Inspiration is some part gotten from Tori.fi - service.
+Inspiration is some part from Tori.fi - service.
 
 # Features
 - Hibernate JPA
